@@ -7,8 +7,8 @@
     <ProjectGuid>{30BF32CE-7B5D-40B2-B3F9-C190343151AC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ApplicationBus</RootNamespace>
-    <AssemblyName>ApplicationBus</AssemblyName>
+    <RootNamespace>RxBus</RootNamespace>
+    <AssemblyName>RxBus</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

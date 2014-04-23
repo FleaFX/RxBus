@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ApplicationBus {
+namespace RxBus {
   /// <summary>
   /// Subscribes an action to the message bus.
   /// </summary>

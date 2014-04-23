@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ApplicationBus {
+namespace RxBus {
   /// <summary>
   /// Message bus used to distribute messages.
   /// </summary>

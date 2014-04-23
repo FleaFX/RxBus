@@ -2,7 +2,7 @@
 using FakeItEasy;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace ApplicationBus.UnitTests {
+namespace RxBus.UnitTests {
   [TestClass]
   public class SubscriptionServiceUnitTests {
     [TestMethod]

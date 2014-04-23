@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Reactive.Subjects;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace ApplicationBus.UnitTests {
+namespace RxBus.UnitTests {
   [TestClass]
   public class InMemoryBusUnitTests {
     [TestMethod]

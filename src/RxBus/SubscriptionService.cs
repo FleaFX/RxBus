@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reactive.Linq;
 
-namespace ApplicationBus {
+namespace RxBus {
   /// <summary>
   /// Default implementation of <see cref="ISubscriptionService"/>.
   /// </summary>

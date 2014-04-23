@@ -6,8 +6,8 @@
     <ProjectGuid>{F3E947D6-5295-4C4D-BCDD-CFA97B38B011}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ApplicationBus.UnitTests</RootNamespace>
-    <AssemblyName>ApplicationBus.UnitTests</AssemblyName>
+    <RootNamespace>RxBus.UnitTests</RootNamespace>
+    <AssemblyName>RxBus.UnitTests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -73,7 +73,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ApplicationBus\ApplicationBus.csproj">
+    <ProjectReference Include="..\RxBus\RxBus.csproj">
       <Project>{30bf32ce-7b5d-40b2-b3f9-c190343151ac}</Project>
       <Name>ApplicationBus</Name>
     </ProjectReference>

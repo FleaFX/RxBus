@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Reactive.Subjects;
 
-namespace ApplicationBus {
+namespace RxBus {
   /// <summary>
   /// Implementation of <see cref="IBus"/> that keeps publishers and subscriptions in memory.
   /// </summary>

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30324.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationBus", "ApplicationBus\ApplicationBus.csproj", "{30BF32CE-7B5D-40B2-B3F9-C190343151AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxBus", "RxBus\RxBus.csproj", "{30BF32CE-7B5D-40B2-B3F9-C190343151AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationBus.UnitTests", "ApplicationBus.UnitTests\ApplicationBus.UnitTests.csproj", "{F3E947D6-5295-4C4D-BCDD-CFA97B38B011}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxBus.UnitTests", "RxBus.UnitTests\RxBus.UnitTests.csproj", "{F3E947D6-5295-4C4D-BCDD-CFA97B38B011}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
